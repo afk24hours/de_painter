@@ -1,0 +1,2 @@
+Screenshots are saved in this folder after pressing Tab + S buttons. 
+Unfortunately only once per program launch :(
